@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Module | liquidity-provision + stop-loss-management is the best Polymarket module, featuring liquidity-provision and stop-loss-management. Smart, fast, and
 
 
 
